@@ -1,0 +1,79 @@
+/* Dark mode overrides for GoodData components */
+.dark-theme-override .gd-chart {
+  background-color: rgb(31, 41, 55) !important;
+  color: rgb(243, 244, 246) !important;
+}
+
+.dark-theme-override .gd-chart-title {
+  color: rgb(243, 244, 246) !important;
+}
+
+.dark-theme-override .gd-chart-axis text {
+  fill: rgb(156, 163, 175) !important;
+}
+
+.dark-theme-override .gd-chart-grid line {
+  stroke: rgb(75, 85, 99) !important;
+}
+
+.dark-theme-override .gd-insight-view {
+  background-color: rgb(31, 41, 55) !important;
+}
+
+.dark-theme-override .gd-chart-legend text {
+  fill: rgb(156, 163, 175) !important;
+}
+
+.dark-theme-override .gd-chart-tooltip {
+  background-color: rgb(55, 65, 81) !important;
+  color: rgb(243, 244, 246) !important;
+  border: 1px solid rgb(75, 85, 99) !important;
+}
+
+.dark-theme-override .gd-chart-axis-label {
+  fill: rgb(156, 163, 175) !important;
+}
+
+.dark-theme-override .gd-chart-tick text {
+  fill: rgb(156, 163, 175) !important;
+}
+
+/* Light theme overrides */
+.light-theme-override .gd-chart {
+  background-color: rgb(255, 255, 255) !important;
+  color: rgb(17, 24, 39) !important;
+}
+
+.light-theme-override .gd-chart-title {
+  color: rgb(17, 24, 39) !important;
+}
+
+.light-theme-override .gd-chart-axis text {
+  fill: rgb(107, 114, 128) !important;
+}
+
+.light-theme-override .gd-chart-grid line {
+  stroke: rgb(229, 231, 235) !important;
+}
+
+.light-theme-override .gd-insight-view {
+  background-color: rgb(255, 255, 255) !important;
+}
+
+.light-theme-override .gd-chart-legend text {
+  fill: rgb(107, 114, 128) !important;
+}
+
+.light-theme-override .gd-chart-tooltip {
+  background-color: rgb(255, 255, 255) !important;
+  color: rgb(17, 24, 39) !important;
+  border: 1px solid rgb(229, 231, 235) !important;
+}
+
+.light-theme-override .gd-chart-axis-label {
+  fill: rgb(107, 114, 128) !important;
+}
+
+.light-theme-override .gd-chart-tick text {
+  fill: rgb(107, 114, 128) !important;
+}
